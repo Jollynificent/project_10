@@ -1,3 +1,5 @@
+##Load balancer solution with nginx
+
 #update server and install nginx
 `sudo apt update && sudo apt install nginx`
 
